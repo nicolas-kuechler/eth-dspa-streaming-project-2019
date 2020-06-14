@@ -13,7 +13,7 @@
     "graphql": "14.3.0",
     "ioredis": "4.9.3",
     "kafkajs": "1.8.0",
-    "lodash": "4.17.11"
+    "lodash": "4.17.13"
   },
   "devDependencies": {
     "prettier": "1.17.1",
