@@ -20,7 +20,7 @@
         <flink.version>1.8.0</flink.version>
         <commons-cli.version>1.4</commons-cli.version>
         <commons-lang3.version>3.0</commons-lang3.version>
-        <commons-configuration2.version>2.4</commons-configuration2.version>
+        <commons-configuration2.version>2.7</commons-configuration2.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <json.version>20180813</json.version>
         <guava.version>27.1-jre</guava.version>
