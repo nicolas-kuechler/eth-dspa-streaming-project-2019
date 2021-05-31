@@ -21,7 +21,7 @@
         <commons-cli.version>1.4</commons-cli.version>
         <commons-lang3.version>3.0</commons-lang3.version>
         <commons-configuration2.version>2.7</commons-configuration2.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <json.version>20180813</json.version>
         <guava.version>29.0-jre</guava.version>
         <opennlp.version>1.9.1</opennlp.version>
